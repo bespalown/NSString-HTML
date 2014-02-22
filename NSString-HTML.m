@@ -26,7 +26,7 @@
 //
 
 
-#import "NSString+HTML.h"
+#import "NSString-HTML.h"
 
 @implementation NSString (HTML)
 
